@@ -1,7 +1,7 @@
 {
   "name": "matrix-react-app",
   "version": "0.1.0",
-  "homepage": "https://alisafa1371.github.io",
+  "homepage": "https://alisafa1371.github.io/reactMap",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
