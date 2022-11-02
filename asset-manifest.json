@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactMap/static/css/main.f3ff0925.css",
+    "main.js": "/reactMap/static/js/main.6ad52833.js",
+    "static/media/you-are-here.png": "/reactMap/static/media/you-are-here.43d41013c3b84833d348.png",
+    "static/media/location.png": "/reactMap/static/media/location.0cfc4c1588e18227e006.png",
+    "index.html": "/reactMap/index.html",
+    "main.f3ff0925.css.map": "/reactMap/static/css/main.f3ff0925.css.map",
+    "main.6ad52833.js.map": "/reactMap/static/js/main.6ad52833.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3ff0925.css",
+    "static/js/main.6ad52833.js"
+  ]
+}
